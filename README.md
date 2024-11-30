@@ -1,4 +1,4 @@
 # Jogos
 https://github.com/LucasDeSousaHub/Jogos
 
-https://lucasdesousahub.github.jogos.io/
+https://lucasdesousahub.github.io/Jogos/
